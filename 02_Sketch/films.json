@@ -1,0 +1,86 @@
+[
+  {
+    "screenshot":"https://s3.eu-west-3.amazonaws.com/sketch-mockups-content/hexagonWorkshop/firstMan%402x.png",
+    "title": "First man",
+    "duration": "2hr 20min",
+    "genre": "Biopic, Drama",
+    "director": {
+      "name": "Damien Chazelle",
+      "avatar": "https://s3.eu-west-3.amazonaws.com/sketch-mockups-content/hexagonWorkshop/avatar_damienChazelle%402x.png"
+    },
+    "actors": "Ryan Gosling, Claire Foy, Jason Clarke, Kyle Chandler, Corey Stoll",
+    "sessions": {
+      "afternoon": "7:10 PM",
+      "night": "8:45 PM",
+      "lateEvening": "10:00 PM"
+    }
+  },
+
+  {
+    "screenshot":"https://s3.eu-west-3.amazonaws.com/sketch-mockups-content/hexagonWorkshop/blackklansman%402x.png",
+    "title": "Blackklansman",
+    "duration": "2hr 15min",
+    "genre": "Biopic, Policier",
+    "director": {
+      "name": "Spike Lee",
+      "avatar": "https://s3.eu-west-3.amazonaws.com/sketch-mockups-content/hexagonWorkshop/avatar_spikeLee%402x.png"
+    },
+    "actors": "John David Washington, Adam Driver, Topher Grace, Laura Harrier, Ryan Eggold",
+    "sessions": {
+      "afternoon": "4:50 PM",
+      "night": "7:30 PM",
+      "lateEvening": "10:10 PM"
+    }
+  },
+
+  {
+    "screenshot":"https://s3.eu-west-3.amazonaws.com/sketch-mockups-content/hexagonWorkshop/mademoiselleDeJoncquiere%402x.png",
+    "title": "Mademoiselle de Joncquières",
+    "duration": "1hr 50min",
+    "genre": "Romance, Drama",
+    "director": {
+      "name": "Emmanuel Mouret",
+      "avatar": "https://s3.eu-west-3.amazonaws.com/sketch-mockups-content/hexagonWorkshop/avatar_+emmanuelMouret%402x.png"
+    },
+    "actors": "Cécile de France, Edouard Baer, Alice Isaaz, Natalia Dontcheva, Laure Calamy, Jean-Michel Lahmi",
+    "sessions": {
+      "afternoon": "5:20 PM",
+      "night": "7:45 PM",
+      "lateEvening": "10:05 PM"
+    }
+  },
+
+  {
+    "screenshot":"https://s3.eu-west-3.amazonaws.com/sketch-mockups-content/hexagonWorkshop/leFlicDeBelleville%402x.png",
+    "title": "Le Flic de Belleville",
+    "duration": "1hr 51min",
+    "genre": "Action, Comédie",
+    "director": {
+      "name": "Rachid Bouchareb",
+      "avatar": "https://s3.eu-west-3.amazonaws.com/sketch-mockups-content/hexagonWorkshop/avatar_rachidBouchareg%402x.png"
+    },
+    "actors": "Omar Sy, Luis Guzman, Biyouna, Diem Nguyen, Issaka Sawadogo",
+    "sessions": {
+      "afternoon": "6:00 PM",
+      "night": "8:15 PM",
+      "lateEvening": "10:30 PM"
+    }
+  },
+
+  {
+    "screenshot":"https://s3.eu-west-3.amazonaws.com/sketch-mockups-content/hexagonWorkshop/capharnaum%402x.png",
+    "title": "Capharnaum",
+    "duration": "2hr 07min",
+    "genre": "Drama",
+    "director": {
+      "name": "Nadine Labaki",
+      "avatar": "https://s3.eu-west-3.amazonaws.com/sketch-mockups-content/hexagonWorkshop/avatar_nadineLabaki%402x.png"
+    },
+    "actors": "Zain Alrafeea, Nadine Labaki, Yordanos Shifera, Boluwatife Treasure Bankole, Kawthar Al Haddad",
+    "sessions": {
+      "afternoon": "5:00 PM",
+      "night": "7:35 PM",
+      "lateEvening": "10:10 PM"
+    }
+  }
+]
