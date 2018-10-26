@@ -4,7 +4,7 @@
 
 ![](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F50728545%2F237384346449%2F1%2Foriginal.jpg?w=800&auto=compress&rect=0%2C41%2C1332%2C666&s=05bf5c554e32792be32b3ec8148df9bd)
 
-[https://www.eventbrite.fr/e/billets-hexagon-ux-paris-presents-prototyping-all-the-things-dailymotion-50950636726#](Event page)
+[Event page](https://www.eventbrite.fr/e/billets-hexagon-ux-paris-presents-prototyping-all-the-things-dailymotion-50950636726#)
 
 
 Here you can find all the links and demos I have showned during my presentation.
