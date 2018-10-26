@@ -13,8 +13,8 @@ https://www.dropbox.com/s/ou48bghie29gx7h/01_Presentation.key?dl=0
 Below you can find all the links I mentioned during my presentation.
 
 **Sketch**  
-[Data Populator plugin](https://github.com/preciousforever/data-populator) 
-[Craft by Invision](https://www.invisionapp.com/craft) 
+- [Data Populator plugin](https://github.com/preciousforever/data-populator) 
+- [Craft by Invision](https://www.invisionapp.com/craft) 
 
 **Framer**  
-[Step-by-step instructions to create your own fully-function fake REST API](https://github.com/typicode/json-server)
+- [Step-by-step instructions to create your own fully-function fake REST API](https://github.com/typicode/json-server)
