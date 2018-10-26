@@ -11,15 +11,15 @@ I was not able to upload the actual presentation Keynote due to Github's file-si
 ## Links
 Here are all the links I mentioned during my presentation
 
-**Inspirational** 🖼
+**Inspirational**  🖼
 - [Present&Correct](https://www.instagram.com/presentandcorrect)
 
-**Sketch Plugins** 🗃<br/>
+**Sketch Plugins**  🗃<br/>
 3rd-party plugins that allow you to import external JSON files into Sketch.<br/>
 - [Data Populator plugin](https://github.com/preciousforever/data-populator) 
 - [Craft by Invision](https://www.invisionapp.com/craft) 
 
-**Development** 🛠
+**Development**  🛠
 - [Fake Online REST API for Testing and Prototyping ](https://jsonplaceholder.typicode.com/)
 - [Step-by-step instructions to create your own fully-function fake REST API](https://github.com/typicode/json-server)
 
