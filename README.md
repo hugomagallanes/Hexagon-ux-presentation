@@ -4,9 +4,8 @@
 
 *25 October 2018* | [Event page](https://www.eventbrite.fr/e/billets-hexagon-ux-paris-presents-prototyping-all-the-things-dailymotion-50950636726#)
 
-## Keynote Presentation
-I was not able to upload the actual presentation Keynote due to Github's file-size restrictions, but you can download it from here: [Dropbox](https://www.dropbox.com/s/ou48bghie29gx7h/01_Presentation.key?dl=0)
-
+## Presentation
+I was not able to upload the actual Keynote file due to Github's file-size restrictions, but you can find the exported PDF file in this repository. I have also included a folder with all the videos showing how to import JSON files into Sketch using the Data Populator plugin.
 
 ## Links
 Here are all the links I mentioned during my presentation
