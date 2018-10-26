@@ -1,13 +1,14 @@
 # Hexagon-ux-presentation
 *25 October 2018* 
+[Event page](https://www.eventbrite.fr/e/billets-hexagon-ux-paris-presents-prototyping-all-the-things-dailymotion-50950636726#)
 
 
 ![](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F50728545%2F237384346449%2F1%2Foriginal.jpg?w=800&auto=compress&rect=0%2C41%2C1332%2C666&s=05bf5c554e32792be32b3ec8148df9bd)
 
-[Event page](https://www.eventbrite.fr/e/billets-hexagon-ux-paris-presents-prototyping-all-the-things-dailymotion-50950636726#)
 
+Below you can find all the links I mentioned during my presentation. I was not able to upload the actual presentation Keynote due to Github's file-size restrictions, but you can download it from the following link:
+https://www.dropbox.com/s/ou48bghie29gx7h/01_Presentation.key?dl=0
 
-Here you can find all the links and demos I have showned during my presentation.
 
 
 ### Links
